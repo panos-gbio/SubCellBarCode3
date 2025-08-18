@@ -1,0 +1,21 @@
+
+# all the files in the directories below
+data/raw/*
+data/processed/*
+data/practice/* 
+data/figs/*
+src/exploratory/*
+
+# exceptions to be included 
+!data/raw/README.md
+!data/processed/README.md
+!data/practice/README.md
+!figs/README.md
+!src/exploratory/README.md
+
+
+
+# some notes on git, conda, and renv not required for the project
+git_commands.md
+conda_info.md
+renv_info.md

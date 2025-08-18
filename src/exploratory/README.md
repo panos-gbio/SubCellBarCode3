@@ -1,0 +1,1 @@
+## Directory for exploratory code and notes beyond projects scope 

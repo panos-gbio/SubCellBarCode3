@@ -1,0 +1,1 @@
+## Directory for exploratory data beyond the scope of the project 
