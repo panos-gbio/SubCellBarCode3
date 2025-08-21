@@ -19,3 +19,4 @@ src/exploratory/*
 git_commands.md
 conda_info.md
 renv_info.md
+.Rproj.user
